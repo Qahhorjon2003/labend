@@ -6,7 +6,6 @@ else:
     print(b)
 #
 #
-#
 a = int(input())
 b = int(input())
 c = int(input())
@@ -20,8 +19,7 @@ else:
     print(c)
 #
 #
-#
-    num1 = int(input())
+num1 = int(input())
 num2 = int(input())
 num3 = int(input())
 if num1 == num2 and num1 == num3 and num3 == num2:
