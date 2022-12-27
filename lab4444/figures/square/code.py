@@ -7,3 +7,4 @@ def square_area(a=__a):
     S = a^2 
     print(S)
     
+    

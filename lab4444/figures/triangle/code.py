@@ -11,3 +11,4 @@ def triangle_area(a=__a,b=__b,c=__c):
     A = math.sqrt(p*(p-a)*(p-b)*(p-c))
     print(A)
 triangle_area()
+
