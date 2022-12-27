@@ -1,5 +1,3 @@
-#хорошая идея для игры :)
-
 import time
 
 class Rocket:
